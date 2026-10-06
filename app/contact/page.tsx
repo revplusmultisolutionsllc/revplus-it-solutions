@@ -30,11 +30,11 @@ export default function Contact() {
             <div className="contact-details">
               <div>
                 <span>Primary phone</span>
-                <a href="tel:+18329429484">+1 832-942-9484</a>
+                <a href="tel:+18329429484">+1 832-365-3780</a>
               </div>
               <div>
                 <span>Secondary phone</span>
-                <a href="tel:+18329429040">+1 832-942-9040</a>
+                <a href="tel:+18329429040">+1 832-942-9484</a>
               </div>
               <div>
                 <span>Office</span>

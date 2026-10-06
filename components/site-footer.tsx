@@ -19,8 +19,8 @@ export function SiteFooter() {
           <div>
             <p className="footer-label">Talk with us</p>
             <div className="mt-5 grid gap-3 text-sm text-slate-300">
-              <a href="tel:+18329429484">+1 832-942-9484</a>
-              <a href="tel:+18329429040">+1 832-942-9040</a>
+              <a href="tel:+18329429484">+1 832-365-3780</a>
+              <a href="tel:+18329429040">+1 832-942-9484</a>
               <p className="leading-6">4065 S Braeswood Blvd<br />Houston, TX 77025, USA</p>
             </div>
           </div>
